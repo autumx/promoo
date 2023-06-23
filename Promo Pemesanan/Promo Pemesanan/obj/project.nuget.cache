@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NLrBk41ds3I6L5JHuA2jY3ZzHsATPfUJRw3ndsR6p9POsCRSflRnXmoj21iYmLiMsVpu7bO0yf/pSI7F1EF/1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oneof\\OneDrive\\Dokumen\\SEMESTER 2\\Promo Pemesanan\\Promo Pemesanan\\Promo Pemesanan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oneof\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\oneof\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\oneof\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\oneof\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\oneof\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\oneof\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
